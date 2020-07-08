@@ -46,7 +46,7 @@ android {
         qaAT{
             applicationId="com.hms.demo.flavourdemo.qaAT"
         }
-        QA{
+        qA{
             applicationId="com.hms.demo.flavourdemo.QA"
         }
         qaAZ{
